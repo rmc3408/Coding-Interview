@@ -29,7 +29,7 @@
    * [Cave of programming](https://caveofprogramming.com/) : Learn to program, Upgrade your skills.
 
 
-#<u> For those who want to start a small project but cant find the ideas </u>
+## <u> For those who want to start a small project but cant find the ideas </u>
    * [martyr2s-mega-project-ideas-list](http://www.dreamincode.net/forums/topic/78802-martyr2s-mega-project-ideas-list/) : contains about 125 project ideas from beginner to intermediate level.
    * [karan/Projects](https://github.com/karan/Projects) : a large collection of small projects for beginners with
    * [Wrong "big projects" for beginners](http://rodiongork.tumblr.com/post/108155476418/wrong-big-projects-for-beginners) : How to choose where to start
@@ -58,7 +58,7 @@
    * [Directory of CS Courses (many with online lectures)](https://github.com/prakhar1989/awesome-courses)
 
 
-#<u> Interview Preparation </u>
+# <u> Interview Preparation </u>
   * [GeeksforGeeks | A computer science portal for geeks](http://www.geeksforgeeks.org/) : also subscribe to their feeds to get links to their new articles.
   * [A site for technical interview questions, brain teasers, puzzles, quizzles](http://www.techinterview.org/) : whatever the heck those are) and other things that make you think!
   * [Problems | LeetCode OJ ](https://leetcode.com/problemset/algorithms/) : Coding practice for interviews
