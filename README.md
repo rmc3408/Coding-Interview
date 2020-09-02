@@ -1,64 +1,10 @@
 # Coding Interviews
 - Some useful websites for programmers created by Raphael Molinaro - Last updated on Sept, 2020.
 
+<u> Interview Preparation </u>
 
-### If you get stuck
-   * [Stack Overflow](http://stackoverflow.com/) : subscribe to their weekly newsletter and any other topic which you find interesting
-   * [Quora](https://www.quora.com/) : A place to share knowledge and better understand the world:
-
-### News
-   * [Hacker News](https://news.ycombinator.com/) : news aggregator for programmers where civility is king, try a newsletter to get top news to your inbox:
-      * [Hacker Newsletter](http://www.hackernewsletter.com/) : curated by hand, delivered weekly 
-      * [Hacker News Digest](https://hndigest.com/) : curated automatically, delivered as frequently as you want	
-   * [Ars Technica](http://arstechnica.com/) : posts unique quality articles
-   * [ACM TechNews](http://technews.acm.org/)
-   * [Lobsters](https://lobste.rs/) : Lobsters is a technology-focused community centered around link aggregation and discussion.
-   * [TechCrunch](http://techcrunch.com/) : another good website for tech news
-   * [GSMArena.com](http://gsmarena.com/) : news related to latest mobile phones and android.
-   * [product hunt ](https://www.producthunt.com/) : Discover your next favorite thing
-
-### Coding practice for beginners
-   * [Reddit.com/r/dailyprogrammer](http://www.reddit.com/r/dailyprogrammer) : interesting programming challenges where you can learn from looking at other's code , even if you are not able to solve code you can look at how others solved.
-   * [Programming by Doing](http://programmingbydoing.com/) : very good site for those who want to start with absolute basics
-   * [CodeAbbey - a place where everyone can master programming](http://codeabbey.com/) : Best place to begin with problems that start at the easiest and gradually increase difficulty with each problem.
-   * [Programming Tasks](http://rosettacode.org/wiki/Category:Programming_Tasks) : large collection of small programs
-   * [karan/Projects-Solutions](https://github.com/karan/Projects-Solutions) : Solutions to most of the problems in the link above
-   * [Small Programming Challenges](https://www.nayuki.io/category/programming)
-   * [Free Code Camp](http://www.freecodecamp.com/) : Learn to code and build projects for nonprofits. Build your full stack web development portfolio today
-   * [Lod - Cloud](http://lod-cloud.net/) : The Linking Open Data cloud diagram
-   * [Cave of programming](https://caveofprogramming.com/) : Learn to program, Upgrade your skills.
-
-
-## <u> For those who want to start a small project but cant find the ideas </u>
-   * [martyr2s-mega-project-ideas-list](http://www.dreamincode.net/forums/topic/78802-martyr2s-mega-project-ideas-list/) : contains about 125 project ideas from beginner to intermediate level.
-   * [karan/Projects](https://github.com/karan/Projects) : a large collection of small projects for beginners with
-   * [Wrong "big projects" for beginners](http://rodiongork.tumblr.com/post/108155476418/wrong-big-projects-for-beginners) : How to choose where to start
-
-# General Coding advice
-   * [Things I Wish Someone Had Told Me When I Was Learning How to Code — Free Code Camp](https://medium.freecodecamp.com/things-i-wish-someone-had-told-me-when-i-was-learning-how-to-code-565fc9dcb329#.y5wbd3pj6)
-   * [Lessons From A Lifetime Of Being A Programmer](http://thecodist.com/article/lessons_from_a_lifetime_of_being_a_programmer)
-   * [Principles of Good Programming](http://www.artima.com/weblogs/viewpost.jsp?thread=331531)
-   * [What every computer science major should know](http://matt.might.net/articles/what-cs-majors-should-know/)
-   * [How to become a programmer, or the art of Googling well](https://okepi.wordpress.com/2014/08/21/how-to-become-a-programmer-or-the-art-of-googling-well/)
-   * [Code Review Best Practices](http://kevinlondon.com/2015/05/05/code-review-best-practices.html)
-   * [Dieter Rams : 10 Principles of Good Product Design](https://stephenhaunts.com/2013/12/11/dieter-rams-10-principles-of-good-product-design/)
-   * [10-ways-to-be-a-better-developer](https://stephenhaunts.files.wordpress.com/2014/04/10-ways-to-be-a-better-developer.png)
-   * [Working as a Software Developer](https://henrikwarne.com/2012/12/12/working-as-a-software-developer/)
-   * [Software design patterns and best practices](http://wiki.c2.com/)
-
-### Coding Style
-   * [CS 106B Coding Style Guide](http://stanford.edu/class/archive/cs/cs106b/cs106b.1158/styleguide.shtml) : must see for those who create spaghetti
-   * [Google C++ Style Guide](https://google.github.io/styleguide/cppguide.html)
-   * [What are some bad coding habits you would recommend a beginner avoid getting into?](https://www.reddit.com/r/learnprogramming/comments/1i4ds4/what_are_some_bad_coding_habits_you_would/)
-   * [Good C programming habits. • /r/C_Programming](https://www.reddit.com/r/C_Programming/comments/1vuubw/good_c_programming_habits/)
-   * [How to Report Bugs Effectively](http://www.chiark.greenend.org.uk/~sgtatham/bugs.html)
-   * [Debugging Faqs](http://www.umich.edu/~eecs381/generalFAQ/Debugging.html)
-   * [Stuff you need to Code Better!](http://codebetter.com/)
-   * [Directory of Online CS Courses](https://github.com/open-source-society/computer-science)
-   * [Directory of CS Courses (many with online lectures)](https://github.com/prakhar1989/awesome-courses)
-
-
-# <u> Interview Preparation </u>
+  * [JobsScan Linkedin](https://www.jobscan.co/) : compare your resume with job posting.
+  
   * [GeeksforGeeks | A computer science portal for geeks](http://www.geeksforgeeks.org/) : also subscribe to their feeds to get links to their new articles.
   * [A site for technical interview questions, brain teasers, puzzles, quizzles](http://www.techinterview.org/) : whatever the heck those are) and other things that make you think!
   * [Problems | LeetCode OJ ](https://leetcode.com/problemset/algorithms/) : Coding practice for interviews
@@ -116,6 +62,61 @@
   * [Determining the big-O runtimes of these different loops?](http://stackoverflow.com/questions/11094330/determining-the-big-o-runtimes-of-these-different-loops) : really good stackoverflow question that covers basics of calculating runtime complexity.
   * [ChiperSoft/InterviewThis](https://github.com/ChiperSoft/InterviewThis) : questions to ask during on a interview to know more about the company.
 
+# Competitive programming
+  * [HackerRank ](http://hackerrank.com/)
+  * [Codeforces ](http://codeforces.com/)
+  * [topcoder ](http://topcoder.com/)
+  * [HackerEarth - Programming challenges and Developer jobs ](http://hackerearth.com/)
+  * [CodeChef ](http://codechef.com/)
+  * [PKU ACM ICPC Practive problems ](http://poj.org/problemlist)
+  * [Archived Problems - Project Euler ](https://projecteuler.net/archives)
+  * [Google Code Jam Practice and ](https://code.google.com/codejam/contests.html) : past contest problems for practice
+  * [Sphere Online Judge (SPOJ) ](http://www.spoj.com/)
+  * [Art of Problem Solving](https://artofproblemsolving.com/)
+  
+### If you get stuck
+   * [Stack Overflow](http://stackoverflow.com/) : subscribe to their weekly newsletter and any other topic which you find interesting
+   * [Quora](https://www.quora.com/) : A place to share knowledge and better understand the world:
+
+## <u> For those who want to start a small project but cant find the ideas </u>
+   * [martyr2s-mega-project-ideas-list](http://www.dreamincode.net/forums/topic/78802-martyr2s-mega-project-ideas-list/) : contains about 125 project ideas from beginner to intermediate level.
+   * [karan/Projects](https://github.com/karan/Projects) : a large collection of small projects for beginners with
+   * [Wrong "big projects" for beginners](http://rodiongork.tumblr.com/post/108155476418/wrong-big-projects-for-beginners) : How to choose where to start
+
+### Coding practice for beginners
+   * [Reddit.com/r/dailyprogrammer](http://www.reddit.com/r/dailyprogrammer) : interesting programming challenges where you can learn from looking at other's code , even if you are not able to solve code you can look at how others solved.
+   * [Programming by Doing](http://programmingbydoing.com/) : very good site for those who want to start with absolute basics
+   * [CodeAbbey - a place where everyone can master programming](http://codeabbey.com/) : Best place to begin with problems that start at the easiest and gradually increase difficulty with each problem.
+   * [Programming Tasks](http://rosettacode.org/wiki/Category:Programming_Tasks) : large collection of small programs
+   * [karan/Projects-Solutions](https://github.com/karan/Projects-Solutions) : Solutions to most of the problems in the link above
+   * [Small Programming Challenges](https://www.nayuki.io/category/programming)
+   * [Free Code Camp](http://www.freecodecamp.com/) : Learn to code and build projects for nonprofits. Build your full stack web development portfolio today
+   * [Lod - Cloud](http://lod-cloud.net/) : The Linking Open Data cloud diagram
+   * [Cave of programming](https://caveofprogramming.com/) : Learn to program, Upgrade your skills.
+
+# General Coding advice
+   * [Things I Wish Someone Had Told Me When I Was Learning How to Code — Free Code Camp](https://medium.freecodecamp.com/things-i-wish-someone-had-told-me-when-i-was-learning-how-to-code-565fc9dcb329#.y5wbd3pj6)
+   * [Lessons From A Lifetime Of Being A Programmer](http://thecodist.com/article/lessons_from_a_lifetime_of_being_a_programmer)
+   * [Principles of Good Programming](http://www.artima.com/weblogs/viewpost.jsp?thread=331531)
+   * [What every computer science major should know](http://matt.might.net/articles/what-cs-majors-should-know/)
+   * [How to become a programmer, or the art of Googling well](https://okepi.wordpress.com/2014/08/21/how-to-become-a-programmer-or-the-art-of-googling-well/)
+   * [Code Review Best Practices](http://kevinlondon.com/2015/05/05/code-review-best-practices.html)
+   * [Dieter Rams : 10 Principles of Good Product Design](https://stephenhaunts.com/2013/12/11/dieter-rams-10-principles-of-good-product-design/)
+   * [10-ways-to-be-a-better-developer](https://stephenhaunts.files.wordpress.com/2014/04/10-ways-to-be-a-better-developer.png)
+   * [Working as a Software Developer](https://henrikwarne.com/2012/12/12/working-as-a-software-developer/)
+   * [Software design patterns and best practices](http://wiki.c2.com/)
+
+### Coding Style
+   * [CS 106B Coding Style Guide](http://stanford.edu/class/archive/cs/cs106b/cs106b.1158/styleguide.shtml) : must see for those who create spaghetti
+   * [Google C++ Style Guide](https://google.github.io/styleguide/cppguide.html)
+   * [What are some bad coding habits you would recommend a beginner avoid getting into?](https://www.reddit.com/r/learnprogramming/comments/1i4ds4/what_are_some_bad_coding_habits_you_would/)
+   * [Good C programming habits. • /r/C_Programming](https://www.reddit.com/r/C_Programming/comments/1vuubw/good_c_programming_habits/)
+   * [How to Report Bugs Effectively](http://www.chiark.greenend.org.uk/~sgtatham/bugs.html)
+   * [Debugging Faqs](http://www.umich.edu/~eecs381/generalFAQ/Debugging.html)
+   * [Stuff you need to Code Better!](http://codebetter.com/)
+   * [Directory of Online CS Courses](https://github.com/open-source-society/computer-science)
+   * [Directory of CS Courses (many with online lectures)](https://github.com/prakhar1989/awesome-courses)
+
 ### Documentations
   * Machine that Changed the World - a very good documentary about history of computers
       * [Part 1: Giant Brains ](http://www.youtube.com/watch?v=rcR74y61xZk)
@@ -137,7 +138,6 @@
   * [Cracking The Code Interview](https://www.youtube.com/watch?v=4NIb9l3imAo)
   * [Cracking the Coding Interview - Fullstack Speaker Series](https://www.youtube.com/watch?v=Eg5-tdAwclo)
   * [Ask Me Anything: Gayle Laakmann McDowell (author of Cracking the Coding Interview)](https://www.youtube.com/watch?v=1fqxMuPmGak)
-
 
 ### MOOCs for learning something new
   * [NPTEL Vidoes COMP_SCI_ENGG ](https://onlinecourses.nptel.ac.in/explorer/search?category=COMP_SCI_ENGG)
@@ -173,6 +173,17 @@
   * [Garbage collection (Java); Augmenting data str (video)](https://www.youtube.com/watch?v=StdfeXaKGEc&list=PL-XXv-cvA_iAlnI-BQr9hjqADPBtujFJd&index=25)
   * [Compilers (video)](https://www.youtube.com/playlist?list=PLO9y7hOkmmSGTy5z6HZ-W4k2y8WXF7Bff)
   * [Deep Dive Java: Garbage Collection is Good!](https://www.infoq.com/presentations/garbage-collection-benefits)
+
+### News
+   * [Hacker News](https://news.ycombinator.com/) : news aggregator for programmers where civility is king, try a newsletter to get top news to your inbox:
+      * [Hacker Newsletter](http://www.hackernewsletter.com/) : curated by hand, delivered weekly 
+      * [Hacker News Digest](https://hndigest.com/) : curated automatically, delivered as frequently as you want	
+   * [Ars Technica](http://arstechnica.com/) : posts unique quality articles
+   * [ACM TechNews](http://technews.acm.org/)
+   * [Lobsters](https://lobste.rs/) : Lobsters is a technology-focused community centered around link aggregation and discussion.
+   * [TechCrunch](http://techcrunch.com/) : another good website for tech news
+   * [GSMArena.com](http://gsmarena.com/) : news related to latest mobile phones and android.
+   * [product hunt ](https://www.producthunt.com/) : Discover your next favorite thing
 
 ### Learn AI
  * [Unsupervised Sentiment Neuron ](https://blog.openai.com/unsupervised-sentiment-neuron/)
@@ -237,6 +248,22 @@
  *  [Let’s Build A Simple Interpreter. Part 1. ](https://ruslanspivak.com/lsbasi-part1/)
  *  [Growing a compliter](http://www.cs.dartmouth.edu/~mckeeman/cs48/mxcom/gem/html/GrowingCompiler.html)
 
+### Video Tutorials
+  * [Tushar Roy ](https://www.youtube.com/user/tusharroy2525/videos) : Algorithm and Data structure tutorial by a Indian Youtuber.
+  * [Derek Banas ](https://www.youtube.com/user/derekbanas/videos) : good quality tutorials
+  * [thenewboston ](https://www.youtube.com/user/thenewboston/videos) : good but with too much talk as compared to actual content
+  * [mycodeschool ](https://www.youtube.com/user/mycodeschool/videos) : Data structures and algorithms tutorials
+  * [CodeGeek ](https://www.youtube.com/channel/UCJYhP1lceSUc1bg0LRBUvqA/videos)
+  * [CodingMadeEasy  ](https://www.youtube.com/user/CodingMadeEasy/videos) : C++ tutorials
+  * [XDA-University - Helping You Learn Android Development ](http://xda-university.com/)
+  * [DevTips ](https://www.youtube.com/user/DevTipsForDesigners/videos) : web dev tutorials
+  * [Javascript Planet](https://www.youtube.com/channel/UCzVnCG4ItKitN1SCBM7-AbA/videos) : Java script and web development tutorials
+  * [codedamn  ](https://www.youtube.com/channel/UCJUmE61LxhbhudzUugHL2wQ/videos) : front end web dev tutorials
+  * [Design and Analysis of Algorithms ](http://openclassroom.stanford.edu/MainFolder/CoursePage.php?course=IntroToAlgorithms)
+  * [Vim Tutorial Videos - Flarfnoogins ](http://derekwyatt.org/vim/tutorials/index.html) : good video tutorial for learning vim
+  * [CS1: Higher Computing - Richard Buckland UNSW ](https://www.youtube.com/playlist?list=PL6B940F08B9773B9F) : a very good introductory CS course
+  * [Kathryn Hodge ](https://www.youtube.com/channel/UC4DwZ2VXM2KWtzHjVk9M_xg/videos) : Has good videos for beginners
+
 ### Tutorials
   * [Tutorialspoint ](http://www.tutorialspoint.com/)
   * [W3Schools Online Web Tutorials ](http://www.w3schools.com/)
@@ -278,7 +305,6 @@
   * [UNIX and Linux System Administration Handbook, 4th Edition](https://www.amazon.com/UNIX-Linux-System-Administration-Handbook/dp/0131480057/)
   * [Programming, Web Development, and DevOps news, tutorials and tools for beginners to experts](https://dzone.com/)
 
-
 ### Watch others code
   * [LiveCoding.tv  ](https://www.livecoding.tv/) : screencast of people building application , websites , games ect.
 
@@ -287,17 +313,7 @@
   * [GitHub.com Build software better, together  ](https://github.com/) : Place to showcase your project and collaborate with others. (Must know Git in order to use it effectively )
   * [Gitlab offers free unlimited (private) repositories and unlimited collaborators](https://gitlab.com).
 
-# Competitive programming
-  * [HackerRank ](http://hackerrank.com/)
-  * [Codeforces ](http://codeforces.com/)
-  * [topcoder ](http://topcoder.com/)
-  * [HackerEarth - Programming challenges and Developer jobs ](http://hackerearth.com/)
-  * [CodeChef ](http://codechef.com/)
-  * [PKU ACM ICPC Practive problems ](http://poj.org/problemlist)
-  * [Archived Problems - Project Euler ](https://projecteuler.net/archives)
-  * [Google Code Jam Practice and ](https://code.google.com/codejam/contests.html) : past contest problems for practice
-  * [Sphere Online Judge (SPOJ) ](http://www.spoj.com/)
-  * [Art of Problem Solving](https://artofproblemsolving.com/)
+
   
 ### Computer Books
   * [IT eBooks - Free Download - Big Library  ](http://it-ebooks.info/) : website for downloading ebooks without any advertisement and instant downloads.
@@ -306,21 +322,6 @@
   * [Best books for GATE CSE ](http://gatecse.in/wiki/Best_books_for_CSE#Best_Books_for_GATE_in_CSE)
   * [https://cses.fi/book.html](https://cses.fi/book.html)
 
-### Video Tutorials
-  * [Tushar Roy ](https://www.youtube.com/user/tusharroy2525/videos) : Algorithm and Data structure tutorial by a Indian Youtuber.
-  * [Derek Banas ](https://www.youtube.com/user/derekbanas/videos) : good quality tutorials
-  * [thenewboston ](https://www.youtube.com/user/thenewboston/videos) : good but with too much talk as compared to actual content
-  * [mycodeschool ](https://www.youtube.com/user/mycodeschool/videos) : Data structures and algorithms tutorials
-  * [CodeGeek ](https://www.youtube.com/channel/UCJYhP1lceSUc1bg0LRBUvqA/videos)
-  * [CodingMadeEasy  ](https://www.youtube.com/user/CodingMadeEasy/videos) : C++ tutorials
-  * [XDA-University - Helping You Learn Android Development ](http://xda-university.com/)
-  * [DevTips ](https://www.youtube.com/user/DevTipsForDesigners/videos) : web dev tutorials
-  * [Javascript Planet](https://www.youtube.com/channel/UCzVnCG4ItKitN1SCBM7-AbA/videos) : Java script and web development tutorials
-  * [codedamn  ](https://www.youtube.com/channel/UCJUmE61LxhbhudzUugHL2wQ/videos) : front end web dev tutorials
-  * [Design and Analysis of Algorithms ](http://openclassroom.stanford.edu/MainFolder/CoursePage.php?course=IntroToAlgorithms)
-  * [Vim Tutorial Videos - Flarfnoogins ](http://derekwyatt.org/vim/tutorials/index.html) : good video tutorial for learning vim
-  * [CS1: Higher Computing - Richard Buckland UNSW ](https://www.youtube.com/playlist?list=PL6B940F08B9773B9F) : a very good introductory CS course
-  * [Kathryn Hodge ](https://www.youtube.com/channel/UC4DwZ2VXM2KWtzHjVk9M_xg/videos) : Has good videos for beginners
 
 ### Online Compiler and Sharing Code snippets
   * [Ideone.com ](https://ideone.com/)
@@ -377,5 +378,3 @@
   * [Every Frame a Painting ](https://www.youtube.com/user/everyframeapainting/videos)
   * [TestTube News](https://www.youtube.com/user/TestTubeNetwork/videos)
   * [Reddit the front page of the internet](http://reddit.com/)
-
- 
