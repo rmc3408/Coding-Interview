@@ -151,29 +151,6 @@
   * [Computer Science Resources ](https://docs.google.com/spreadsheets/d/1BD8BJJUNaX63m2QmySWMGDp71nx4W4MyyiIBlfMoN3Q/htmlview?sle=true#) : list of MOOCs for autodidacts
   * [https://github.com/prakhar1989/awesome-courses/blob/master/README.md ](https://github.com/prakhar1989/awesome-courses/blob/master/README.md) : collection of CS courses on Internet
 
-### Sites related to your preferred programming language (For me Java)
-  * [Java Revisited ](http://javarevisited.blogspot.in/) : good for learning about Java Language and interview preparation.
-  * [The Java™ Tutorials  ](https://docs.oracle.com/javase/tutorial/): The best tutorials for Java.
-  * [Java Corner at Artima.com ](http://www.artima.com/java/index.html)
-  * [Java Visualizer ](http://www.cs.princeton.edu/~cos126/java_visualize/) : helps visualize references , values of variables ect
-  * [Java Lecture Notes ](http://www.cafeaulait.org/course/)
-  * [Learning Java ](http://chimera.labs.oreilly.com/books/1234000001805/index.html) : a free online textbook for learning Java
-  * [Free Online Chapters of Inside the Java Virtual Machine by Bill Venners ](http://www.artima.com/insidejvm/ed2/index.html)
-  * [Understanding JVM Internals ](http://www.cubrid.org/blog/dev-platform/understanding-jvm-internals/)
-  * [How Garbage Collection Works ](http://www.dynatrace.com/en/javabook/how-garbage-collection-works.html)
-  * [Welcome to JavaWorld.com ](http://www.javaworld.com/)
-  * [The Java Memory Model ](http://www.cs.umd.edu/~pugh/java/memoryModel/)
-  * [Netbeans Keyboard Shortcuts ](https://netbeans.org/project_downloads/usersguide/shortcuts-80.pdf) : Keyboard shortcuts to enhance your productivity when working in Netbeans.
-  * [XyzWs Java FAQs ](http://www.xyzws.com/javafaq/page/1) : large collection of java interview questions
-  * [Search Open Source Java API ](http://www.docjar.com/) : view source of java library and learn how things are implemented.
-  * [JournalDev - Java, Java EE, Android, Web Development Tutorials](http://www.journaldev.com/)
-  * [Implementation of Algorithms and Data Structures, Interview Questions and Answers ](https://github.com/sherxon/AlgoDS)
-  * [what-is-garbage-collection](https://plumbr.eu/handbook/what-is-garbage-collection) : Demystify the garbage collection
-  * [Best books for learning java must read](https://javahungry.blogspot.com/2014/02/best-books-for-learning-java-must-read.html): Get basics of Java
-  * [Garbage collection (Java); Augmenting data str (video)](https://www.youtube.com/watch?v=StdfeXaKGEc&list=PL-XXv-cvA_iAlnI-BQr9hjqADPBtujFJd&index=25)
-  * [Compilers (video)](https://www.youtube.com/playlist?list=PLO9y7hOkmmSGTy5z6HZ-W4k2y8WXF7Bff)
-  * [Deep Dive Java: Garbage Collection is Good!](https://www.infoq.com/presentations/garbage-collection-benefits)
-
 ### News
    * [Hacker News](https://news.ycombinator.com/) : news aggregator for programmers where civility is king, try a newsletter to get top news to your inbox:
       * [Hacker Newsletter](http://www.hackernewsletter.com/) : curated by hand, delivered weekly 
